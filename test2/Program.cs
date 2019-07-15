@@ -8,7 +8,7 @@ namespace test2
         {
             var math = new Math();
             int n1, n2;
-            Console.WriteLine("Enter two numbers:");
+            Console.WriteLine("Enter two numbersss:");
             n1 = int.Parse(Console.ReadLine());
             n2 = int.Parse(Console.ReadLine());
             var n3 = math.Sum(n1,n2);
