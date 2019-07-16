@@ -1,0 +1,14 @@
+C:\dev\cognizanttest\test2\bin\Debug\netcoreapp2.2\TestingProject.deps.json
+C:\dev\cognizanttest\test2\bin\Debug\netcoreapp2.2\TestingProject.runtimeconfig.json
+C:\dev\cognizanttest\test2\bin\Debug\netcoreapp2.2\TestingProject.runtimeconfig.dev.json
+C:\dev\cognizanttest\test2\bin\Debug\netcoreapp2.2\TestingProject.dll
+C:\dev\cognizanttest\test2\bin\Debug\netcoreapp2.2\TestingProject.pdb
+C:\dev\cognizanttest\test2\bin\Debug\netcoreapp2.2\Mathh.dll
+C:\dev\cognizanttest\test2\bin\Debug\netcoreapp2.2\Mathh.pdb
+C:\dev\cognizanttest\test2\obj\Debug\netcoreapp2.2\TestingProject.csprojAssemblyReference.cache
+C:\dev\cognizanttest\test2\obj\Debug\netcoreapp2.2\TestingProject.csproj.CoreCompileInputs.cache
+C:\dev\cognizanttest\test2\obj\Debug\netcoreapp2.2\TestingProject.AssemblyInfoInputs.cache
+C:\dev\cognizanttest\test2\obj\Debug\netcoreapp2.2\TestingProject.AssemblyInfo.cs
+C:\dev\cognizanttest\test2\obj\Debug\netcoreapp2.2\TestingProject.csproj.CopyComplete
+C:\dev\cognizanttest\test2\obj\Debug\netcoreapp2.2\TestingProject.dll
+C:\dev\cognizanttest\test2\obj\Debug\netcoreapp2.2\TestingProject.pdb

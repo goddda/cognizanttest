@@ -1,0 +1,17 @@
+C:\dev\cognizanttest\MathTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev\cognizanttest\MathTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev\cognizanttest\MathTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev\cognizanttest\MathTests\bin\Debug\netcoreapp2.2\MathTests.deps.json
+C:\dev\cognizanttest\MathTests\bin\Debug\netcoreapp2.2\MathTests.runtimeconfig.json
+C:\dev\cognizanttest\MathTests\bin\Debug\netcoreapp2.2\MathTests.runtimeconfig.dev.json
+C:\dev\cognizanttest\MathTests\bin\Debug\netcoreapp2.2\MathTests.dll
+C:\dev\cognizanttest\MathTests\bin\Debug\netcoreapp2.2\MathTests.pdb
+C:\dev\cognizanttest\MathTests\obj\Debug\netcoreapp2.2\MathTests.csprojAssemblyReference.cache
+C:\dev\cognizanttest\MathTests\obj\Debug\netcoreapp2.2\MathTests.csproj.CoreCompileInputs.cache
+C:\dev\cognizanttest\MathTests\obj\Debug\netcoreapp2.2\MathTests.AssemblyInfoInputs.cache
+C:\dev\cognizanttest\MathTests\obj\Debug\netcoreapp2.2\MathTests.AssemblyInfo.cs
+C:\dev\cognizanttest\MathTests\obj\Debug\netcoreapp2.2\MathTests.dll
+C:\dev\cognizanttest\MathTests\obj\Debug\netcoreapp2.2\MathTests.pdb
+C:\dev\cognizanttest\MathTests\bin\Debug\netcoreapp2.2\Mathh.dll
+C:\dev\cognizanttest\MathTests\bin\Debug\netcoreapp2.2\Mathh.pdb
+C:\dev\cognizanttest\MathTests\obj\Debug\netcoreapp2.2\MathTests.csproj.CopyComplete

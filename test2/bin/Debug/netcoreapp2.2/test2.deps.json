@@ -6,15 +6,28 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "test2/1.0.0": {
+      "Test2/1.0.0": {
+        "dependencies": {
+          "Mathh": "1.0.0"
+        },
         "runtime": {
-          "test2.dll": {}
+          "Test2.dll": {}
+        }
+      },
+      "Mathh/1.0.0": {
+        "runtime": {
+          "Mathh.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "test2/1.0.0": {
+    "Test2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mathh/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

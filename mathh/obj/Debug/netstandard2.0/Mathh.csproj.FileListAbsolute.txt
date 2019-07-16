@@ -1,0 +1,9 @@
+C:\dev\cognizanttest\mathh\bin\Debug\netstandard2.0\Mathh.deps.json
+C:\dev\cognizanttest\mathh\bin\Debug\netstandard2.0\Mathh.dll
+C:\dev\cognizanttest\mathh\bin\Debug\netstandard2.0\Mathh.pdb
+C:\dev\cognizanttest\mathh\obj\Debug\netstandard2.0\Mathh.csproj.CoreCompileInputs.cache
+C:\dev\cognizanttest\mathh\obj\Debug\netstandard2.0\Mathh.AssemblyInfoInputs.cache
+C:\dev\cognizanttest\mathh\obj\Debug\netstandard2.0\Mathh.AssemblyInfo.cs
+C:\dev\cognizanttest\mathh\obj\Debug\netstandard2.0\Mathh.dll
+C:\dev\cognizanttest\mathh\obj\Debug\netstandard2.0\Mathh.pdb
+C:\dev\cognizanttest\mathh\obj\Debug\netstandard2.0\Mathh.csprojAssemblyReference.cache

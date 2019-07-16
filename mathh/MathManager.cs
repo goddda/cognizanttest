@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace test2
+namespace Mathh
 {
-    public class Math
+    public class MathManager
     {
         // public static int myconstant = 5;
-        public int Sum(int n1, int n2)
+        public int Add(int n1, int n2)
         {
             int n = n1 + n2;
             return n;
